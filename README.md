@@ -12,3 +12,4 @@ Descricao teste numero 2
 3- Luis Flavio Ferreira Monteiro
 4- Marcus Vogado 
 5- Bruno Cezar
+6 - Viscal
